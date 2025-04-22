@@ -7,6 +7,10 @@
 - Compatible with Vanilla textures, or your own texture packs
 - So much more!
 
+## Information
+- Type: Resources Pack
+- Achievement Friendly
+
 ## Gameplay Visuals
 ![actionsandstuff_screenshot_1](https://github.com/user-attachments/assets/a26f19ce-edf8-4275-bbd0-466104f498dc)
 ![actionsandstuff_screenshot_2](https://github.com/user-attachments/assets/8611e46b-2267-435c-949a-d7b9d86fc0a8)
@@ -16,8 +20,5 @@
 ![actionsandstuff_screenshot_6](https://github.com/user-attachments/assets/1aafd390-2884-420a-b80d-ccea19df231d)
 ![actionsandstuff_screenshot_7](https://github.com/user-attachments/assets/aacd2108-66d5-4488-9abc-e27b1fce39f2)
 
-## Information
-- Type: Resources Pack
-- Achievement Friendly
 
 
