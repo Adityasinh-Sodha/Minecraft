@@ -20,5 +20,8 @@
 ![actionsandstuff_screenshot_6](https://github.com/user-attachments/assets/1aafd390-2884-420a-b80d-ccea19df231d)
 ![actionsandstuff_screenshot_7](https://github.com/user-attachments/assets/aacd2108-66d5-4488-9abc-e27b1fce39f2)
 
-
-
+# Instalation 
+1. Download this repo
+2. Extract the zip file
+3. Click .mcpack file and open it with minecraft
+4. Minecraft will automatically add the pack
