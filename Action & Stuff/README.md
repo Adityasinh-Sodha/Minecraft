@@ -26,4 +26,6 @@
 3. Click .mcpack file and open it with minecraft
 4. Minecraft will automatically add the pack
 
-## Developed by Oreville Studios
+## Author 
+Developed by **Oreville Studios**  
+A official marketplace content. 
