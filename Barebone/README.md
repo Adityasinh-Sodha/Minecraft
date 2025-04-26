@@ -22,3 +22,5 @@ https://youtu.be/C35IRiIwO2U
 1. Download this repo
 2. Click .mcpack file and open it with minecraft
 3. Minecraft will automatically add the pack
+## Author 
+Developed by **RobotPants**
