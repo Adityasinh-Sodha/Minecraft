@@ -16,3 +16,9 @@ Bare Bones is a texture pack with the purpose of bringing your world and the def
 ![d8a1e761ff080347c67959832ce5ff93c036f21a](https://github.com/user-attachments/assets/18acbf23-a59b-43b1-8a4a-4135f464e4ec)
 ![ec83669e2c6721c80755a709833587f7eb6a4b94](https://github.com/user-attachments/assets/cc624e7a-331a-49e2-8ba2-13b5ad445bfe)
 ![e3c1328d61ab01f08307b8236f82832ccfc1ce00](https://github.com/user-attachments/assets/15df8a49-8d1b-40dd-bbec-05df8b89341c)
+- trailer
+https://youtu.be/C35IRiIwO2U
+## Instalation 
+1. Download this repo
+2. Click .mcpack file and open it with minecraft
+3. Minecraft will automatically add the pack
