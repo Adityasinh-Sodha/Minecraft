@@ -13,4 +13,5 @@ https://youtu.be/IR_WS0qziPk
 2. Click .mcpack file and open it with minecraft
 3. Minecraft will automatically add the pack
 ## Author 
-Developed by **Alien Edds**   
+Developed by **Alien Edds**            
+Under MIT LICENSE
