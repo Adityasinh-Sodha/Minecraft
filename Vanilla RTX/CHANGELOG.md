@@ -1,0 +1,2 @@
+- Added support for Dormant Creaking Heart block state
+- Added complete support for Spring to Life game drop content
