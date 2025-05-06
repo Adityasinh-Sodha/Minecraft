@@ -17,3 +17,12 @@ Vanilla RTX is the go-to ray tracing resource pack for Minecraft RTX, bringing t
 ![vanilla-rtx_2 (1)](https://github.com/user-attachments/assets/d3bfaeb2-d923-4ce1-a903-189ecd7a9222)
 ![vanilla-rtx_3](https://github.com/user-attachments/assets/b31c071e-d5b1-4b65-b910-40961eb84604)
 ![vanilla-rtx_6](https://github.com/user-attachments/assets/6bf35169-c928-427a-98b7-0a0f80b99a60)
+
+## Instalation 
+1. Download this repo
+2. Extract the zip file
+3. Click .mcpack file and open it with minecraft
+4. Minecraft will automatically add the pack
+
+## Author 
+Developed by **cubeir**  
